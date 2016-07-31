@@ -1,0 +1,2 @@
+CHANGED,/Users/nick/AndroidStudioProjects/Bluetooth2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/example/bluetooth2/MainActivity$ConnectedThread$override.class
+CHANGED,/Users/nick/AndroidStudioProjects/Bluetooth2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class

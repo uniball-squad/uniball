@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Uniball</string>
+    <string name="title_activity_main">Uniball</string>
+    <string name="btn_ON">Start Game</string>
+    <string name="btn_OFF">Stop Game</string>
+
+</resources>

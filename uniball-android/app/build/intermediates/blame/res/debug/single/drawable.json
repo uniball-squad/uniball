@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nick/AndroidStudioProjects/Bluetooth2/app/build/intermediates/res/merged/debug/drawable/waiting.jpg",
+        "source": "/Users/nick/AndroidStudioProjects/Bluetooth2/app/src/main/res/drawable/waiting.jpg"
+    },
+    {
+        "merged": "/Users/nick/AndroidStudioProjects/Bluetooth2/app/build/intermediates/res/merged/debug/drawable/success.jpg",
+        "source": "/Users/nick/AndroidStudioProjects/Bluetooth2/app/src/main/res/drawable/success.jpg"
+    }
+]
